@@ -1,0 +1,27 @@
+{
+  "name": "clean-blog-project",
+  "version": "1.0.0",
+  "description": "Clean blog project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hgulese/clean-blog-project.git"
+  },
+  "author": "Huseyin Ilker Gulese",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hgulese/clean-blog-project/issues"
+  },
+  "homepage": "https://github.com/hgulese/clean-blog-project#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.22",
+    "prettier": "2.8.7"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
